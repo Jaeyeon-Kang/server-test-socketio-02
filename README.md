@@ -1,6 +1,6 @@
 ## socket io로 움직이는 line chart만드는 클론코딩
 
-erver:
+server:
 
 ```bash
 "start": "npm run start:client & npm run start:server",
